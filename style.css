@@ -1,0 +1,35 @@
+*{
+    margin: 0 auto;
+}
+
+form{
+    position: absolute;
+    left: 35%;
+    top: 10%;
+    padding: 6rem;
+    padding-bottom: 2rem;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#display{
+    top: 7%;
+    left: 15%;
+    position: absolute;
+    padding: 10px 20px;
+    width: 70%;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(245, 239, 239);
+}
+.num{
+    background-color: rgb(44, 43, 43);
+    padding: 10px 27px;
+    margin: 7px 3px;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 1.1rem;
+}
+.clear{
+    padding: 10px 55px;
+}
